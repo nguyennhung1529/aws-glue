@@ -1,13 +1,15 @@
 ---
-title : "Big Data Tutorial: Overview về BigData"
+title : "AWS Glue"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 ---
-# Overview về BigData
+# AWS Glue
 
-Trong tài liệu này mình sẽ giới thiệu sơ qua cho mọi người nắm được các kiến thức cơ bản nhất cần chuẩn bị trước khi bắt đầu nghiên cứu thực hiện một dự án về big data.
+In this lab we take a look at AWS Glue in full using the console. The labs covers all the basic knowledge about AWS Glue, AWS Glue ecosystems (like AWS Glue Data Catalog, AWS Glue ETL, AWS Glue Triggers, AWS Glue Dev Endpoints, etc), and PySpark for AWS Glue. 
 
-### Nội dung
- 1. [Tổng quan về Big Data và Ecosystem](1-overview-bigdata-and-ecosystem/)
- 2. [Lưu trữ, quản lý và xử lý Big Data](2-etl-in-bigdata/)
+### Content
+ 1. [Overview AWS Glue](1-overview-aws-glue/)
+ 2. [AWS Glue Ecosystems](2-aws-glue-ecosystems/)
+ 3. [AWS Glue ETL vs EMR](3-aws-glue-etl-vs-emr/)
+ 4. [PySpark for AWS Glue](4-pyspark-for-aws-glue/)
