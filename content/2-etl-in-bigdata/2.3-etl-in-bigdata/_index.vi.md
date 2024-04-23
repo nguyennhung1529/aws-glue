@@ -7,7 +7,7 @@ pre : " <b> 2.3. </b> "
 ---
 ### ETL
 **ETL**, viết tắt của **Extract, Transform, Load**, là một quy trình quan trọng trong việc xử lý và chuẩn bị dữ liệu, đặc biệt đối với Big Data giúp tối ưu hóa dữ liệu cho phân tích, đảm bảo dữ liệu đầu vào đủ chất lượng cho quá trình phân tích về sau. Trong đó:
-![bigdata](/overview-big-data/images/3-etl-in-bigdata/etl.png)
+![bigdata](/images/3-etl-in-bigdata/etl.png)
   * **Extract (Trích xuất)**: 
     - Dữ liệu được trích xuất từ một hoặc nhiều nguồn dữ liệu, có thể gồm cơ sở dữ liệu truyền thống, hệ thống tệp, hoặc từ các thiết bị IoT, …..
     - Là bước đầu tiên và cơ bản nhất, yêu cầu tính chính xác cao để đảm bảo dữ liệu được thu thập đầy đủ và không bị biến đổi.

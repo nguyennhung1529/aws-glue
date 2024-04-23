@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 2. </b> "
 ---
 
-![bigdata](/overview-big-data/images/2-etl-in-bigdata/bigdata.png)
+![bigdata](/images/2-etl-in-bigdata/bigdata.png)
 
 ### Nội dung
  2.1. [Data Models](2.1-data-models/) \
