@@ -10,6 +10,6 @@ In this lab we take a look at AWS Glue in full using the console. The labs cover
 
 ### Content
  1. [Overview AWS Glue](1-overview-aws-glue/)
- 2. [AWS Glue Ecosystems](2-aws-glue-ecosystems/)
+ 2. [AWS Glue Deep dive & Hand-ons](2-aws-glue-deep-dive-and-hand-ons/)
  3. [AWS Glue ETL vs EMR](3-aws-glue-etl-vs-emr/)
  4. [PySpark for AWS Glue](4-pyspark-for-aws-glue/)
